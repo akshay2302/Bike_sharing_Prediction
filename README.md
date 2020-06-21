@@ -1,2 +1,2 @@
 # Analytical skills for prediction.
-information about Bike Sharing data
+EDA and Prediction about Bike Sharing data
